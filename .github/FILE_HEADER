@@ -1,8 +1,6 @@
-const config = {
-        headers: {
+headers: {
           'Content-Type': 'application/json'}
-      };
-kubeflow14.get(url, config)
+      }
 
 @author Vyom Aggarwal <>
 @link https://github.com/Kubeflow14/header-comments
