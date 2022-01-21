@@ -1,5 +1,5 @@
 headers: {
-        'Content-Type': 'application/x-tar'
+        'content-type': 'application/x-tar'
     }
 @author Vyom Aggarwal <>
 @link https://github.com/Kubeflow14/header-comments
